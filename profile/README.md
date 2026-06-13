@@ -1,8 +1,33 @@
-<div>
-    <!-- <h2>Make Something Different 🧐</h2> -->
-  <img src="https://raw.githubusercontent.com/JinnScripts/.github/main/data/JinnLabsBanner.png">
-  <li>Make Something Different 🧐</li> 
+<div align="center">
 
-  <h2>By Community One</h2>
-  <li>Join For Support <a href="https://discord.gg/rAya8AfYqg">Discord Server</a></li>
+<img src="https://raw.githubusercontent.com/JinnScripts/.github/main/data/JinnLabsBanner.png" alt="Jinn Labs Banner" width="100%">
+
+# JinnScripts By Community One
+
+### Premium FiveM Scripts & Development
+
+Building high-quality, optimized, and reliable resources for the FiveM community.
+
+---
+
+### 📢 Support & Community
+
+Join our Discord server for:
+- Script Support
+- Bug Reports
+- Feature Requests
+- Development Updates
+- Community Discussions
+
+🔗 <a href="https://discord.gg/rAya8AfYqg">Join Our Discord</a>
+
+---
+
+### ⚡ Powered By Community One
+
+
+
+
+
+
 </div>
